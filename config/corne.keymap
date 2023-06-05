@@ -29,10 +29,10 @@
             bindings = <&tog GME>;
         };
         combo_capwords {
-        timeout-ms = <50>;
-        key-positions = <25 34>;
-        bindings = <&caps_words>;
-        }
+            timeout-ms = <50>;
+            key-positions = <25 34>;
+            bindings = <&caps_words>;
+         };
     };
 };
 
